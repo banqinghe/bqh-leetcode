@@ -1,3 +1,7 @@
+// dp[i][j] 表示长度为 n，以第 j 个元音字母结尾的字符串数
+
+// 使用递推公式更快
+
 /**
  * @param {number} n
  * @return {number}

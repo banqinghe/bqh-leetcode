@@ -12,4 +12,4 @@
 | 11 | [盛水最多的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/11.ContainerWithMostWater.js) | Medium | `Two Pointers` |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/15.3Sum.js) | Medium | `Two Pointers` |
 | 493 | [493. 翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/493.ReversePairs.js) | Hard | `Merge Sort` |
-
+| 976 | [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/976.LargestPerimeterTriangle.js) | Easy | `Greedy` |

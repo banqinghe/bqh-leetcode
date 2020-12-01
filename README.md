@@ -13,3 +13,4 @@
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/15.3Sum.js) | Medium | `Two Pointers` |
 | 493 | [493. 翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/493.ReversePairs.js) | Hard | `Merge Sort` |
 | 976 | [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/976.LargestPerimeterTriangle.js) | Easy | `Greedy` |
+| 34 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/34.searchRange.js) | Medium | `Binary Search` |

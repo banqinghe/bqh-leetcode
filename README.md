@@ -11,6 +11,8 @@
 | 1641 | [统计字典序元音字符串的数目](https://leetcode-cn.com/problems/count-sorted-vowel-strings/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/1641.countVowelStrings.js) | Medium | `DP` |
 | 11 | [盛水最多的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/11.ContainerWithMostWater.js) | Medium | `Two Pointers` |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/15.3Sum.js) | Medium | `Two Pointers` |
-| 493 | [493. 翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/493.ReversePairs.js) | Hard | `Merge Sort` |
-| 976 | [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/976.LargestPerimeterTriangle.js) | Easy | `Greedy` |
-| 34 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/34.searchRange.js) | Medium | `Binary Search` |
+| 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/493.ReversePairs.js) | Hard | `Merge Sort` |
+| 976 | [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/976.LargestPerimeterTriangle.js) | Easy | `Greedy` |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/34.searchRange.js) | Medium | `Binary Search` |
+| 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/767.reorganizeString.js) | Medium | `Greedy` |
+| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [📝](https://github.com/banqinghe/bqh-leetcode/blob/master/17.letterCombinations.js) | Medium | `Backtrack` |
